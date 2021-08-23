@@ -23,7 +23,7 @@ header {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
-    background-image: url("/Users/jaredelliott/Desktop/run-buddy/assets/images/hero-bg.jpg");
+    background-image: url("/assets/images/hero-bg.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -172,7 +172,7 @@ section {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    background-image: url("/Users/jaredelliott/Desktop/run-buddy/assets/images/hero-bg.jpg");
+    background-image: url("https://i.imgur.com/AsmHRos.jpg");
     background-size: cover;
     background-position: center;
     align-items: flex-start;
